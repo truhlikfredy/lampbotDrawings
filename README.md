@@ -54,6 +54,14 @@ The motor dimenstions were taken from datasheets, some from hand measurements an
 Some parts took good few iterations to get it right.
 
 
+### Elbow modified into bottom mount
+
+![bottom1](middleBracket/middleBracket-bottom.png)
+
+![bottom2](middleBracket/middleBracket-bottom2.png)
+
+This bottom mount requires longer servo arm **middleBracket/teeth3-long.SLDPRT**
+
 ### Servo arm
 
 After getting servo mounted I needed to mount arm to it. The servo itself has small gear (15 teeth) which helps with a grip.
